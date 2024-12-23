@@ -10,17 +10,30 @@ Testing Objective: Ensure the application meets functional, performance, and usa
 
 Areas Covered:
 
-Login
-Register Account
-Logout
-Forgot Password
-Purchase
-Search
-Product Listing
-PC Builder
-Wishlist
-Notifications
-Payment Options
-Order Tracking
-Account Management
-Customer Support
+Login, 
+
+Register Account, 
+
+Logout,
+
+Forgot Password,
+
+Purchase,
+
+Search,
+
+Product Listing,
+
+PC Builder,
+
+Wishlist,
+
+Notifications,
+
+Payment Options,
+
+Order Tracking,
+
+Account Management,
+
+Customer Support,
